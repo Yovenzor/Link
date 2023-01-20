@@ -109,3 +109,8 @@ i {
 #codepen {
       --link-color:#000;
 }
+.footer-p p{
+      text-align: center;
+      align-content: center;
+      min-width: 100px;
+}
