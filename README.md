@@ -9,10 +9,6 @@
 
 ---
 
-<p align="center">
-  
-</p>
-
 ---
 
 ## 💡 About the project
